@@ -1,0 +1,11 @@
+If you are having problems installing node-opcua ("npm install node-opcua --save"), please check possible solutions suggested here:
+
+If the error has some info related to GIT, most probably it means you need to install GIT.
+a Solution for Linux and Mac:
+	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+b Solution for Windows:
+	https://git-scm.com/download/win
+
+If the problem was not solved, please send details to me (sergii.iarovyi@tut.fi).
+
+Meanwhile you can use the folder provided with example as a base for your project. This folder already has node-opcua installed and you should have no problems using it.
